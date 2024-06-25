@@ -16,7 +16,9 @@ You can install these dependencies using pip:
 
 
 pip install flask
-pip install opencv-python
+
+pip install opencv-
+
 pip install tensorflow
 
 Then Run 
